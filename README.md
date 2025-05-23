@@ -18,9 +18,9 @@ Welcome to my GitHub! I'm a passionate Computer Vision and Machine Learning enth
 - **Datasets Worked With**: CIFAR-10, Nepali Sign Language Dataset, Custom YOLO/COCO datasets
 
 ## 📈 Featured Projects
-- **[Nepali Sign Language Classification](link-to-repo)**: Built a CNN model using TensorFlow to classify 36 Nepali sign language characters, achieving high accuracy on a Kaggle dataset with plain and random backgrounds.
+- **[Nepali Sign Language Classification](https://github.com/prabhat155/nepali-signlanguage)**: Built a CNN model using TensorFlow to classify 36 Nepali sign language characters, achieving high accuracy on a Kaggle dataset with plain and random backgrounds.
 - **[Nepal Election Sentiment Analysis](link-to-repo)**: Conducted sentiment analysis on X data for the 2079 Nepal elections using Tweepy, with preprocessing for Nepali text and political party insights.
-- **[CIFAR-10 Image Classification](link-to-repo)**: Developed a CNN for classifying 10 object categories using transfer learning on Google Colab, with detailed visualizations and documentation.
+- **[CIFAR-10 Image Classification](https://github.com/prabhat155/CIFAR-10-Classfication-CNN)**: Developed a CNN for classifying 10 object categories using transfer learning on Google Colab, with detailed visualizations and documentation.
 - **[Tomato Ripeness Detection](link-to-repo)**: Trained an RT-DETR model to classify tomatoes as Ripe, Semi-ripe, or Unripe, converting YOLO to COCO format for training.
 
 ## 📚 Fun Facts

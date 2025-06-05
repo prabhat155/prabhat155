@@ -28,7 +28,7 @@ Welcome to my GitHub! I'm a passionate Computer Vision and Machine Learning enth
 - I’m a coffee enthusiast who codes best with a cup of Nepali chiya ☕!
 
 ## 📞 Get in Touch
-- [LinkedIn](www.linkedin.com/in/prabhat-bhatta)
+- [LinkedIn](www.linkedin.com/in/prabhat-bhatta)www.linkedin.com/in/prabhat-bhatta
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prabhat155&show_icons=true&theme=radical)
 
